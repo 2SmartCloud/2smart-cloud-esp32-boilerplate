@@ -1,4 +1,6 @@
-# Homie boilerplate
+# ESP32 boilerplate (LEGACY)
+
+This project was created as skeleton for [2Smart Cloud SDK](https://github.com/2SmartCloud/2smart-cloud-cpp-sdk) and now it's a legacy project.
 
 ## Structure
 
